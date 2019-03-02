@@ -1,0 +1,11 @@
+clone an existing repository
+$ git clone ssh://user@domain.com/repo.git
+
+Add all current changes to the next commit
+$ git add .
+
+Commit all local changes in all files 
+$ git config -m"message"
+
+public your repository 
+$ git push 
