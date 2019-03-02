@@ -7,5 +7,5 @@ $ git add .
 Commit all local changes in all files 
 $ git config -m"message"
 
-public your repository 
+push into github repo. 
 $ git push 
